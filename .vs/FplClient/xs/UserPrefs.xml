@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CE72BDDA-630D-440B-A2E3-ADCC6E767BE4}|FplClient">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FplClient.Services/FplRankingService.cs">
+    <Files>
+      <File FileName="FplClient/Controllers/FplRankingController.cs" Line="58" Column="1" />
+      <File FileName="FplClient.Services/FplRankingService.cs" Line="116" Column="18" />
+      <File FileName="FplClient.Core/Models/File/PointsHistory.cs" />
+      <File FileName="FplClient.Core/Services/IFplRankingService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FplClient" expanded="True">
+            <Node name="FplClient.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+            </Node>
+            <Node name="FplClient.Core" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="FplClient.Services" expanded="True">
+              <Node name="FplRankingService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FplClient.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

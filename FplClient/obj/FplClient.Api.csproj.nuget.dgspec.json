@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rayaan/Projects/FplClient/FplClient/FplClient.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj",
+        "projectName": "FplClient.Core",
+        "projectPath": "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj",
+        "packagesPath": "/Users/rayaan/.nuget/packages/",
+        "outputPath": "/Users/rayaan/Projects/FplClient/FplClient.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rayaan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rayaan/Projects/FplClient/FplClient.Services/FplClient.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rayaan/Projects/FplClient/FplClient.Services/FplClient.Services.csproj",
+        "projectName": "FplClient.Services",
+        "projectPath": "/Users/rayaan/Projects/FplClient/FplClient.Services/FplClient.Services.csproj",
+        "packagesPath": "/Users/rayaan/.nuget/packages/",
+        "outputPath": "/Users/rayaan/Projects/FplClient/FplClient.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rayaan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj": {
+                "projectPath": "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rayaan/Projects/FplClient/FplClient/FplClient.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rayaan/Projects/FplClient/FplClient/FplClient.Api.csproj",
+        "projectName": "FplClient.Api",
+        "projectPath": "/Users/rayaan/Projects/FplClient/FplClient/FplClient.Api.csproj",
+        "packagesPath": "/Users/rayaan/.nuget/packages/",
+        "outputPath": "/Users/rayaan/Projects/FplClient/FplClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rayaan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj": {
+                "projectPath": "/Users/rayaan/Projects/FplClient/FplClient.Core/FplClient.Core.csproj"
+              },
+              "/Users/rayaan/Projects/FplClient/FplClient.Services/FplClient.Services.csproj": {
+                "projectPath": "/Users/rayaan/Projects/FplClient/FplClient.Services/FplClient.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            },
+            "Fpl.Client": {
+              "target": "Package",
+              "version": "[0.3.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

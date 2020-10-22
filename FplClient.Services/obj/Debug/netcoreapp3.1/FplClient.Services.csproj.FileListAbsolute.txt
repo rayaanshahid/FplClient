@@ -1,0 +1,12 @@
+/Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Services.deps.json
+/Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Services.dll
+/Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Services.pdb
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.csprojAssemblyReference.cache
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.AssemblyInfoInputs.cache
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.AssemblyInfo.cs
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.csproj.CoreCompileInputs.cache
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.dll
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.pdb
+/Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Core.dll
+/Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Core.pdb
+/Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.csproj.CopyComplete
