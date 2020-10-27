@@ -10,3 +10,15 @@
 /Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Core.dll
 /Users/rayaan/Projects/FplClient/FplClient.Services/bin/Debug/netcoreapp3.1/FplClient.Core.pdb
 /Users/rayaan/Projects/FplClient/FplClient.Services/obj/Debug/netcoreapp3.1/FplClient.Services.csproj.CopyComplete
+Z:\Projects\FplClient\FplClient.Services\bin\Debug\netcoreapp3.1\FplClient.Services.deps.json
+Z:\Projects\FplClient\FplClient.Services\bin\Debug\netcoreapp3.1\FplClient.Services.dll
+Z:\Projects\FplClient\FplClient.Services\bin\Debug\netcoreapp3.1\FplClient.Services.pdb
+Z:\Projects\FplClient\FplClient.Services\bin\Debug\netcoreapp3.1\FplClient.Core.dll
+Z:\Projects\FplClient\FplClient.Services\bin\Debug\netcoreapp3.1\FplClient.Core.pdb
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.csprojAssemblyReference.cache
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.AssemblyInfoInputs.cache
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.AssemblyInfo.cs
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.csproj.CoreCompileInputs.cache
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.csproj.CopyComplete
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.dll
+Z:\Projects\FplClient\FplClient.Services\obj\Debug\netcoreapp3.1\FplClient.Services.pdb
